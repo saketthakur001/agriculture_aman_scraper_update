@@ -1,0 +1,9 @@
+base url :64.227.166.238
+
+FIELDS needed for desease detect
+
+- service provider id 
+- crop id
+- crop name
+- select filter (potato,leaves,furnished product)
+- take pic
